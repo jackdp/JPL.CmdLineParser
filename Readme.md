@@ -1,3 +1,11 @@
+# WARNING
+
+File `JPL.CmdLineParser.pas` was moved to https://github.com/jackdp/JPLib/tree/master/Base
+
+<span style="color:red">This repository will be deleted.</span>
+
+---
+
 # JPL.CmdLineParser
 
 Command-line parser for Delphi and Free Pascal
